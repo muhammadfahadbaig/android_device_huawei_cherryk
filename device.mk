@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/linaro/hi6210sft
+LOCAL_PATH := device/huawei/cherryk
 LOCAL_FSTAB := $(LOCAL_PATH)/rootdir/fstab.hi6210sft
 TARGET_RECOVERY_FSTAB = $(LOCAL_FSTAB)
 TARGET_SCREEN_HEIGHT := 1280
